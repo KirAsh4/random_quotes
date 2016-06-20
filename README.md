@@ -40,7 +40,7 @@ set it to only use one category. Specifying multiple categories is curently not 
 	</thead>
 	<tfoot>
 		<tr>
-			<td colspan="3"><em>More options may get added later.</em></th>
+			<th colspan="3"><em>More options may get added later.</em></th>
 		</tr>
 	</tfoot>
 	<tbody>
@@ -57,7 +57,7 @@ set it to only use one category. Specifying multiple categories is curently not 
 		<tr>
 			<td><code>category</code></td>
 			<td>What category to pick from.</td>
-			<td><code>random</code> - Other options are: <code>inspirational</code>, <code>life</code>, <code>love</code>, <code>motivational</code>, <code>positive</code>, or <code>success</code>.</td>
+			<td><code>random</code> - The <code>random</code> setting will pick a random quote out of all the available categories. Or you can set it to a specific category: <code>inspirational</code>, <code>life</code>, <code>love</code>, <code>motivational</code>, <code>positive</code>, or <code>success</code>.</td>
 		</tr>
 	</tbody>
 </table>
