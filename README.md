@@ -1,7 +1,7 @@
 # Module: random_quotes
 
 The `random_quotes` module returns a random quote based on the category set. Supplied quotes are courtesy
-of BrainyQuotes.com. Since there is no API for BrainQuotes.com, you will have to manually add new ones.
+of http://brainyquote.com. Since there is no API for BrainQuote.com, you will have to manually add new ones.
 See the section on `Updating Quotes` below.
 
 ## Installing the module
@@ -63,7 +63,7 @@ set it to only use one category. Specifying multiple categories is curently not 
 </table>
 
 ## Updating Quotes
-Because BrainyQuotes.com does not proide an API for their database, you will have to update/change the quotes manually.
+Because BrainyQuote.com does not proide an API for their database, you will have to update/change the quotes manually.
 You can edit the `random_quotes.js` file and add/remove quotes from the various sections. You may even delete an entire
 section.
 
