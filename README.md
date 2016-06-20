@@ -57,7 +57,7 @@ set it to only use one category. Specifying multiple categories is curently not 
 		<tr>
 			<td><code>category</code></td>
 			<td>What category to pick from.</td>
-			<td><code>random</code> - Other options are: `inspirational`, `life`, `love`, `motivational`, `positive`, or `success`.</td>
+			<td><code>random</code> - Other options are: <code>inspirational</code>, <code>life</code>, <code>love</code>, <code>motivational</code>, <code>positive</code>, or <code>success</code>.</td>
 		</tr>
 	</tbody>
 </table>
