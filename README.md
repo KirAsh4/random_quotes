@@ -5,9 +5,9 @@ of http://brainyquote.com. Since there is no API for BrainQuote.com, you will ha
 See the section on `Updating Quotes` below.
 
 ## Installing the module
-Clone this repository in your `~MagicMirror/modules/` folder
+Clone this repository in your `~/MagicMirror/modules/` folder
 ````javascript
-git clone httpd://github.com/KirAsh4/random_quotes
+git clone https://github.com/KirAsh4/random_quotes
 ````
 
 ## Using the module
